@@ -10,7 +10,7 @@ Get ready for an exhilarating time at Group G's Casino, where fortune favors the
 ## Using the GUI:
 Despite our week-long experience, we were able to make an MVP GUI for our casino. It features slots and blackjack and a starting balance of $10,000. Run the command python CasinoProjectGUI.py in your terminal, enter your bets, and play. 
 Notes on playing:
-* Press Y to play again at the ending screen of both games (blackjack shows it; slots doesn't)
+* Press Y to play again at the ending screen of both games.
 * Press Escape to return to the choose-mode screen at any time. Your balance will remain updated.
 
 To write a comprehensive README for the GitHub repository shown in your screenshot, which is titled "Tufts24Casino" and contains several Python scripts for casino games and associated resources, here’s a suggested format and content:
