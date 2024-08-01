@@ -388,6 +388,8 @@ def main():
                         updatedbal = font_sml.render(f"Your balance: ${balance}", 1, (0,0,0))
                         bg.blit(updatedbal, (400,300))
                         add_bet = False
+                    play_again = font.render('PRESS Y TO PLAY AGAIN', 1, (0,0,0))
+                    bg.blit(play_again, (150, 400))
 
 
 
