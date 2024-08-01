@@ -100,7 +100,6 @@ def main():
                             if state == 'slot machine' and active:
                                 print(t_ext)
                                 bet = t_ext
-                                t_ext = ''
                                 if bet.isdigit() and int(bet)<= balance:
                                     bet_bool = True
                             if state == 'blackjack' and active:
