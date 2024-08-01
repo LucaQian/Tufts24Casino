@@ -5,6 +5,9 @@
 * Roulette: Feel the excitement of the roulette wheel. Place your bets on red or black, odd or even, or pick your lucky numbers and watch the wheel spin.
 * Slot Machine: Try your luck with our slot machines. Spin the reels and hope for the winning combination to hit the jackpot.
 ## How to Play:
+Important notes:
+* Before running, make sure you install the pygame and emoji modules to your Python (preferably 3.10 or later). You can do this by running the pip install command in your terminal.
+* To run the GUI, download all the necessary images. They're contained in the zip file and in this repository. 
 All games are integrated into our GitHub repository, allowing you to play directly from the terminal. The steps are as follows: clone our repository, navigate to the game directory, and run the script to start playing your favorite game. Detailed instructions and game rules are provided within the terminal to ensure a pristine gaming experience.
 Get ready for an exhilarating time at Group G's Casino, where fortune favors the bold! Happy gambling!
 ## Using the GUI:
